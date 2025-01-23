@@ -19,7 +19,7 @@
                 {
                     "slug": "bg-color",
                     "name": "Background color",
-                    "color": "#FFFFFF"
+                    "color": "#F5F5F5"
                 },
                 {
                     "slug": "bd-color",
@@ -70,7 +70,7 @@
             "duotone": [
                 {
                     "colors": [
-                        "#FFFFFF",
+                        "#F5F5F5",
                         "#767676"
                     ],
                     "slug": "bg-and-text",
@@ -78,7 +78,7 @@
                 },
                 {
                     "colors": [
-                        "#FFFFFF",
+                        "#F5F5F5",
                         "#270707"
                     ],
                     "slug": "bg-and-dark",
@@ -86,7 +86,7 @@
                 },
                 {
                     "colors": [
-                        "#FFFFFF",
+                        "#F5F5F5",
                         "#ED1B24"
                     ],
                     "slug": "bg-and-link",
@@ -116,9 +116,14 @@
                     "slug": "p-font"
                 },
                 {
+                    "fontFamily": "",
+                    "name": "",
+                    "slug": "post-font"
+                },
+                {
                     "fontFamily": "inherit",
                     "name": "inherit",
-                    "slug": "post-font"
+                    "slug": "input-font"
                 }
             ]
         },
